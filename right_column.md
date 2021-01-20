@@ -6,7 +6,7 @@ Are you doing any of these things below:
 - You change scripts written by your colleagues.
 - You write code that is used in research by you or others.
 
-If yes, then this mini-hackathon is for you. We w
+If yes, then this mini-hackathon is for you. 
 
 ### How to join
 

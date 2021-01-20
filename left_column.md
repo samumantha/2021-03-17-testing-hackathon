@@ -61,11 +61,11 @@ Day 1, March 17
 
 Day 2, March 24
 - 9:00 - 09:20
-  Welcome and introduction to mini-hackathon
-- 9:20 - 10:00
-  Presentations of projects
-- 10:00 - 13:00
+  Introduction and forming of groups
+- 9:20 - 12:00
   Project work with mentors
+- 12:00 - 12:30
+  Summary of progress made and lessons learned
 
 
 ### Location
