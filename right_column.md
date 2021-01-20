@@ -1,27 +1,21 @@
 
-### Who the course is for
+### Who the event is for
 
 Are you doing any of these things below:
 - You write scripts to process data.
 - You change scripts written by your colleagues.
 - You write code that is used in research by you or others.
 
-If yes, then this course is for you.  This is not designed for
-"professional code developers" or computer scientists.
-
-If you develop research code and you know all the tools
-already, join us as a helper! It's fun, and you always learn
-something new about a subject by teaching it.
-
+If yes, then this mini-hackathon is for you. We w
 
 ### How to join
 
 We are normally limited by number of helpers, thus:
 
 - Anyone may register as a learner, we will try to take as many as we can.
-- Or you can register as a helper.  If you are somewhat comfortable
-  with these tools, you can be a helper! (see below)
-- Register as a team, one helper and 4-6 learners.
+- Or you can register as a mentor.  If you are somewhat comfortable
+  with software testing in one or more languages, you can be a helper! (see below)
+- Register as a team, one mentor and 4-6 learners.
   - We will accept all complete teams.
   - Everyone on the team must register separately.
   - Decide some team name, and when registering, everone enter this
@@ -33,11 +27,8 @@ We are normally limited by number of helpers, thus:
   - This is a great opportunity to bring your friends and colleagues
     and prepare for the future together.
 
-If you've been to a CodeRefinery before and have used git some after
-that, you are definitely capable of being a helper.  If you routinely
-use git and know Python somewhat well, you are also very qualified to
-be a helper.
-
+If you've been to a CodeRefinery workshiop before and implemented some testing after
+that, or if you routinely write tests for your code, you are definitely capable of being a mentor.
 
 ### What we will not teach
 
@@ -50,20 +41,15 @@ Python.
 
 ### Prerequisites
 
-- You should be able to navigate the file tree in a terminal session and edit
-  text files in the terminal.
-  [This Linux shell crash course](https://scicomp.aalto.fi/scicomp/shell.html)
-  ([video](https://youtu.be/56p6xX0aToI))
-  contains the essentials.
 - Basics in one or more programming languages.
-- You need to install some software. Please follow links at left.
-- It is useful if you have a basic idea of how Git works. We will start from
-  the basics anyway, but please go through
+  You are expected to bring a code project to the event in which you want to implement
+  testing functionality. It does not need to be a large complicated codebase,
+  just something you use or intend to use in your research.
+- You may need to install some software. Please follow links at left.
+- It is useful if you have a basic idea of how Git works. Please go through
   [this Git-refresher material](https://coderefinery.github.io/git-refresher/)
   for a basic overview and important configuration steps.
-- Make sure that git is configured, and verify the configuration:
-  [text instructions](https://coderefinery.github.io/installation/git/#configuring-git),
-  [video](https://www.youtube.com/watch?v=WdDTp8NeHBs&t=258s).
+
 
 
 ### Instructors
@@ -82,11 +68,6 @@ helpers](https://coderefinery.github.io/manuals/helping-and-teaching/)).
 - **Why should I come as a team?**  If you will work together later,
   learning the tools at the same time is a great way to do it.
 
-- **Am I good enough to be a helper?**  If you are asking this
-  question, probably you are.  You should have some familiarity with
-  git, provide some initial advice on obvious error messages, and
-  be able to call us for advanced help when it's needed.
-
 - **How does the waitlist work?**  Anyone can register, but you go to
   the waitlist until we can be sure we have enough helpers.  We'll
   continually approve people as we get space.  We know
@@ -94,5 +75,3 @@ helpers](https://coderefinery.github.io/manuals/helping-and-teaching/)).
   get in is join a team with a helper (or find us more helpers in
   general).
 
-
-- TBA
