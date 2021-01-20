@@ -16,41 +16,23 @@ Adjust these files:
 
 ### Schedule planning
 
-**Host:** Manage zoom meeting, breakout rooms, timekeeping and breaks,
-zoom chat, general attendee communication.  **Hackmd:** watches
-hackmd, answers questions, organizes it, brings questions up in main
-lecture.  **Expert helpers:** Reserve instructors who can help with
-difficult problems, especially configuration problems at the very
-beginning of each day.  Optional.  **Helper:** breakout room helper, listed at
-end (not per day) since they are usually expected to be a helper every
-day. **(name)** in parentheses: "I offer to do it
-but I am happy if someone replaces me here."
+Mini-hackathon roles and self-assignment:
 
-Overlapping roles are allowed when you think it's reasonable!
-
-
-<table>
-<tr>
-  <th>Day</th>
-         <th>Topics+Instructors</th>
-         <th>Host</th>
-         <th>Hackmd</th>
-         <th>Experts helpers</th>
-</tr>
-<tr>
-  <th>1.jan (W)</th>
-         <td>intro: name<br>
-		     topic1: name<br>
-	     </td>
-         <td></td><!--host-->
-         <td></td><!--hackmd-->
-         <td></td><!--expert helpers-->
-</tr>
-</table>
-
-Helpers: name, name.  (note: for privacy, helpers do not need to be
-tracked here)
-
+- **Host:** Manage zoom meeting, breakout rooms, timekeeping and breaks,
+   zoom chat, general attendee communication.
+   - Name1
+ - **Hackmd:** watches hackmd, answers questions, organizes it, brings questions up in main lecture.
+   - Name2
+   - Name3
+ - **Mentors:** get paired with a few participants on day 1 and answer questions by email in the period until day 2.
+   Also work as helpers in breakout rooms on day 1.
+   - Name4
+   - ...
+   - NameN
+ - **Instructors:** Teach the lesson on day 1
+   - NameN+1
+   - NameN+2
+   - NameN+3
 
 
 ### Changing the status of the registration button
