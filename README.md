@@ -22,11 +22,11 @@ Mini-hackathon roles and self-assignment:
    zoom chat, general attendee communication.
    - Name1
  - **Hackmd:** watches hackmd, answers questions, organizes it, brings questions up in main lecture.
-   - Name2
+   - Samantha
    - Name3
  - **Mentors:** get paired with a few participants on day 1 and answer questions by email in the period until day 2.
    Also work as helpers in breakout rooms on day 1.
-   - Name4
+   - Johan
    - ...
    - NameN
  - **Instructors:** Teach the lesson on day 1
