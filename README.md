@@ -27,8 +27,9 @@ Mini-hackathon roles and self-assignment:
  - **Mentors:** get paired with a few participants on day 1 and answer questions by email in the period until day 2.
    Also work as helpers in breakout rooms on day 1.
    - Johan
-   - ...
-   - NameN
+   - Qiang Li, ENCCS
+   - Mark Abraham, ENCCS
+   - Roberto Di Remigio, ENCCS
  - **Instructors:** Teach the lesson on day 1
    - NameN+1
    - NameN+2
