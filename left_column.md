@@ -56,8 +56,10 @@ Other requirements:
 Day 1, March 17
 - 9:00 - 9:15
   Welcome and practical information
-- 9:30 - 12:30
+- 9:30 - 12:00
   [Software testing](https://coderefinery.github.io/testing/)
+- 12:00-12:30
+  Forming teams and introductory meeting with mentors
 
 Day 2, March 24
 - 9:00 - 09:20
@@ -65,13 +67,13 @@ Day 2, March 24
 - 9:20 - 12:00
   Project work with mentors
 - 12:00 - 12:30
-  Summary of progress made and lessons learned
+  Presentations of progress made and lessons learned
 
 
 ### Location
 
-The workshop will be held online, participant links will be sent to
-registered participants.
+The hackathon will be held online, a Zoom link will be sent to
+accepted participants.
 
 
 ### Price
