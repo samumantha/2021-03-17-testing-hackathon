@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://coderefinery.org"
+base_url = "https://coderefinery.github.io/2021-03-17-testing-hackathon/"
 
 title = "CodeRefinery"
 
