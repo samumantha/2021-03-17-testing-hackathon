@@ -12,11 +12,19 @@ Hackathon roles and self-assignment:
    - Name3
  - **Mentors:** get paired with a few participants on day 1 and answer questions by email in the period until day 2.
    Also work as helpers in breakout rooms on day 1.
+   - Anne Fouilloux
+   - Diana Iusan
+   - Emilia Lipponen
    - Johan Hellsvik
-   - Qiang Li, ENCCS
-   - Mark Abraham, ENCCS
-   - Roberto Di Remigio, ENCCS
- - **Instructors:** Teach the lesson on day 1
+   - Mark Abraham
+   - Patric Holmvall
+   - Qiang Li
+   - Radovan Bast
+   - Roberto Di Remigio
+   - Samantha Wittke
+   - Thor Wikfeldt
+
+- **Instructors:** Teach the lesson on day 1
 
 | Duration | Episode | Instructor |
 | --- | --- | --- |
