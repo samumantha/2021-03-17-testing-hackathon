@@ -4,7 +4,7 @@ title = "CodeRefinery hackathon on software testing"
 
 ### Bring your code and start writing tests with the help of a mentor!
 
-### March 17 and 24, 2020
+### March 17 and 24, 2021
 
 <a class="btn btn-info disabled" href="#" data-mode="1" target="_blank">Registration will open soon</a>
 
