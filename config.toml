@@ -29,7 +29,7 @@ highlight_theme = "cheerfully-light"
 [extra]
 # Put all your custom variables here
 
-repository_url = "https://example.org"
+repository_url = "https://github.com/coderefinery/2021-03-17-testing-hackathon"
 twitter_image = "https://raw.githubusercontent.com/coderefinery/coderefinery.org/main/content/logo/coderefinery.png"
 
 # you can place multiple logos like this:
