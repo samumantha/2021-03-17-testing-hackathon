@@ -5,14 +5,16 @@ This repository is a template to set up webpages for CodeRefinery workshops.
 To use it, follow these instructions:
 - Click the green "Use this template" button.
 - Select owner of the new repository and repository name. The name should be
-  "year-month-date-place", e.g. "2019-10-16-stockholm".
+  "year-month-date-place", e.g. "2019-10-16-stockholm"..
 - Click "Create repository from template"
 - You will now be redirected to the new repository.
 
 Adjust these files:
-- `title.md`
-- `left-column.md`
-- `right-column.md`
+- `content/_index.md`
+- `config.toml`
+  - adapt `repository_url` under `[extra]`
+  - add logos as needed
+
 
 ### Schedule planning
 
@@ -31,7 +33,22 @@ Mini-hackathon roles and self-assignment:
    - Mark Abraham, ENCCS
    - Roberto Di Remigio, ENCCS
  - **Instructors:** Teach the lesson on day 1
-   - NameN+1
+
+| Duration | Episode | Instructor |
+| --- | --- | --- |
+| 10 min | Motivation | TBD |
+| 10 min | Concepts | TBD |
+| 25 min | Testing locally | TBD |
+| 10 min | Tools | TBD |
+| 40 min | Automatic testing with GitHub Actions | TBD |
+| 40 min | Automatic testing with GitLab CI | TBD |
+| 25 min | Test design | TBD |
+| 5 min | Conclusions and recommendations | TBD |
+
+
+
+
+- NameN+1
    - NameN+2
    - NameN+3
 
