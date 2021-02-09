@@ -29,76 +29,53 @@ If yes, then the CodeRefinery testing workshop and hackathon is for you!
 
 In this event, you will become familiar with tools and best practices for testing research software and get help in adopting these in your own projects. 
 
-#### Day 1: Workshop 
-Day 1 will be devoted to learning - we go through the [CodeRefinery lesson on automated testing](https://coderefinery.github.io/testing) and work on exercises in breakout rooms where you can use your favorite programming language. 
+#### *Day 1: Workshop* 
+Day 1 will be devoted to learning - we go through the [CodeRefinery lesson on automated testing](https://coderefinery.github.io/testing) and work on exercises in breakout rooms where you can use your favorite programming language. <br>
 **It is possible to only attend day 1 and not take part in the hackathon.** 
 
 At the end of day 1, hackathon participants will be paired up with a mentor and pitch their projects in small groups.
 
-#### Between Day 1 and Day 2 
-you will get help from your mentor to design tests, implement them in your code or set up automated testing. Participants can communicate with mentors by email, Zoom meetings or the [CodeRefinery Zulipchat](https://coderefinery.github.io/manuals/chat/) and ask questions. 
+#### *Between Day 1 and Day 2* 
+you will get help from your mentor to design tests, implement them in your code or set up automated testing. Participants can communicate with mentors by email, Zoom meetings or the [CodeRefinery Zulipchat](https://coderefinery.github.io/manuals/chat/) and ask questions. <br>
 **You will be expected to spend at least 5 hours on your
 project during this time.**
 
-#### Day 2: Hackathon
+#### *Day 2: Hackathon*
 During the hackathon on day 2, we split participants into groups and they work in a sprint together with their mentor.  
-At the end of day 2, we briefly summarize the progress made for each project and discuss lessons learned.
+At the end of day 2, we briefly summarize the progress made for each project and discuss lessons learned.<br>
 **Participants in a same team will be located to one breakout room together**
 
 ### How to join
 
-- There are two ways to attend: only workshop on day 1 or both workshop and
-  hackathon on days 1 and 2.
-- If you collaborate with other people on writing code, we recommend
-  that you all register to the hackathon as a team.
-- You can also sign up as a team even if you don't directly
-  collaborate on coding. Teams will be working together in breakout
-  rooms during the event and get paired with the same mentor. Team members
-  should preferably use the same programming language.
-- Decide some team name, and when registering, everyone enter this
-  same name so that we can link you together. Note that everyone on
-  the team must register separately.
-- We will also accept single participants. If you're registering by
-  yourself you do not need to select a team name.
-- However, hackathon participants in teams will get more mentor time
-  than single participants.
+#### *Either A. Both workshop and hackathon, or B. Only workshop*
+- There are two ways to attend: only workshop on day 1 or both workshop and hackathon on days 1 and 2.
+- It is not obligation that all the team participants choose the same option. 
+#### *Participation as a team* 
+- If you collaborate with other people on writing code, we recommend that you all register to the event as a team. You can also sign up as a team even if you don't directly collaborate on coding. 
+- Teams will be working together in breakout rooms during the event and get paired with the same mentor. Team members should preferably use the same programming language.
+- Decide a team name, and when registering, everyone enter this team name so that we can link you together. Note that everyone on the team must register separately.
+#### *Participation as a single learner*
+- Single learners are welcome! You don't have to write anything to the "team name" question in the registration form.
+- During the exercise sessions in the workshop, 5-6 single learners are grouped into a breakout room to work together. Our instructors and mentors are jumping around breakout rooms to check-in the status, and you can ask questions to them directly or write on a collaborative note that is answered semi-synchronously.
+- However, please note that hackathon participants in teams will get more mentor time than single participants.
+#### *To maximize outcome at the Hackathon*
 - When registering, please write a description of the project you
   want to work on together with a mentor. Write what your code does,
-  what language it's expressed in, whether it already has some tests,
-  and what you would like to accomplish in the hackathon.
-- To derive maximum benefit from the hackathon, we recommend that you
-  make your code available in some form so that mentors can prepare.
-  In the registration form you can provide a web address to your code
-  repository if it's publicly available. If your code is not public,
-  we will ask you to share it with a mentor before the hackathon.
-
-
+  what language it's expressed in, whether it already has some tests, and what you would like to accomplish in the hackathon.
+- To derive maximum benefit from the hackathon, we recommend that you make your code available in some form so that mentors can prepare.
+-  In the registration form you can provide a web address to your code repository if it's publicly available. If your code is not public, we will ask you to share it with a mentor before the hackathon.
 
 ### Prerequisites
 
-- By participating in this event, you agree to abide by the Code of Conduct.
-- You are expected to bring a code project to the event in which you
-  want to implement testing functionality. It does not need to be a
-  large complicated codebase, just something you use or intend to use
-  in your research. If it's not your own code, make sure that it has a
-  license which allows you to modify it.
-- You may need to install some software - see the Software
-  Requirements section on below.
-- It is somewhat important that you have a basic idea of how Git
-  works. Please go through [this Git-refresher
-  material](https://coderefinery.github.io/git-refresher/) for a basic
-  overview and important configuration steps.
+- If you will attend the Hackathon, you are expected to bring a code project to the event in which you want to implement testing functionality. It does not need to be a large complicated codebase, just something you use or intend to use in your research. If it's not your own code, make sure that it has a license which allows you to modify it.
+- You may need to install some software - see the Software Requirements section on below.
+- It is somewhat important that you have a basic idea of how Git works. Please go through [this Git-refresher material](https://coderefinery.github.io/git-refresher/) for a basic overview and important configuration steps.
 
 ### Software requirements
 
-You are assumed to have everything installed that you need for running
-code in your preferred programming language, e.g. Pythonm, Matlab or R
-interpreters, or compilers for C/C++, Fortran, Julia, Rust, Go etc.
+You are assumed to have everything installed that you need for running code in your preferred programming language, e.g. Python, Matlab or R interpreters, or compilers for C/C++, Fortran, Julia, Rust, Go etc.
 
-You also need to have a testing framework available for your preferred
-language. Some languages need a package installation while others have
-a framework built into their standard libraries. A list of recommended
-tools and frameworks will be published here soon.
+You also need to have a testing framework available for your preferred language. Some languages need a package installation while others have a framework built into their standard libraries. A list of recommended tools and frameworks will be published here soon.
 
 Other requirements:
 
@@ -110,7 +87,7 @@ Other requirements:
 
 ### Schedule
 
-Day 1, March 17
+#### *Day 1, March 17*
 - 9:00 - 9:15
   Welcome and practical information
 - 9:30 - 12:00
@@ -118,7 +95,7 @@ Day 1, March 17
 - 12:00-12:30
   Project pitching and introductory meeting with mentors
 
-Day 2, March 24
+#### *Day 2, March 24*
 - 9:00 - 09:20
   Introduction
 - 9:20 - 12:00
@@ -129,8 +106,7 @@ Day 2, March 24
 
 ### Location
 
-The hackathon will be held online, a Zoom link will be sent to
-accepted participants.
+The hackathon will be held online, a Zoom link will be sent to accepted participants.
 
 
 ### Price and priority policy
@@ -140,9 +116,11 @@ Collaboration](https://neic.no/) and the [EuroCC National Competence Center Swed
 
 When we have more sign-ups than our capacity allows, the following priority criteria apply.
 
-1. Affiliated by or student of a national research or higher-education institute in a Nordic country or Estonia
-2. Affiliated by or student of a national research or higher-education institute other than any Nordic country or Estonia
-3. Others
+1. National universities or research institutes in Nordic countries and Estonia 
+2. Private companies and government agencies in Nordic countries or Estonia participating in research projects funded by EU/Nordic/National research councils (in this case, please specify which project you are working for in the registration form) 
+3. Other Nordic or Estonian private companies or government agencies
+4. European national universities or research institutes from outside the Nordics.
+5. Others
 
 Therefore it is very important that you use email address of your affiliation.    
 
@@ -171,19 +149,11 @@ Therefore it is very important that you use email address of your affiliation.
 - **Why should I join with a team?**  If you will work together later,
   learning the tools at the same time is a great way to do it.
 
-- **How does the waitlist work?**  Anyone can register, but you go to
-  the waitlist until we can be sure we have enough mentors.  We'll
-  continually approve people as we get space.
+- **How does the waitlist work?**  Anyone can register, but everyone goes to the waitlist. After the 3rd March, We'll continually approve people as we get space.
 
-- **Does it matter where I work?** Because of the Nordic funding of
+- **Does it matter where I work or study?** Because of the Nordic funding of
   CodeRefinery by [NeIC](https://neic.no/) and Swedish funding of
-  [ENCCS](https://enccs.se/) we need to have a priority list: 1)
-  National universities or research institutes in Nordic countries +
-  Estonia; 2) Private companies and government agencies in Nordic
-  countries participating in research projects funded by
-  EU/Nordic/National research councils; 3) Other Nordic private
-  companies or government agencies; 4) European national universities
-  or research institutes from outside the Nordics.
+  [ENCCS](https://enccs.se/) we need to have a priority list described above. 
 
 
 
