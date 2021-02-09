@@ -76,7 +76,7 @@ At the end of day 2, we briefly summarize the progress made for each project and
 
 ### Prerequisites
 
-- By participating in this event, you abide the Code of Conduct.
+- By participating in this event, you agree to abide by the Code of Conduct.
 - You are expected to bring a code project to the event in which you
   want to implement testing functionality. It does not need to be a
   large complicated codebase, just something you use or intend to use
@@ -190,4 +190,3 @@ Therefore it is very important that you use email address of your affiliation.
 ### Contact
 
 support@coderefinery.org
-
