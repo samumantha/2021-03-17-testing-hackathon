@@ -1,5 +1,5 @@
 +++
-title = "CodeRefinery hackathon on software testing"
+title = "Online CodeRefinery Workshop and Hackathon on Software Testing"
 +++
 
 ### Bring your code and start writing tests with the help of a mentor!
