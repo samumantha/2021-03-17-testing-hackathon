@@ -2,10 +2,13 @@
 title = "Online CodeRefinery Workshop and Hackathon on Software Testing"
 +++
 
-### Bring your code and start writing tests with the help of a mentor!
+### March 17 and 24, 2021, 9:00-12:30 CET
+<hr>
 
-### March 17 and 24, 2021
+<p style="font-size:120%;"><i> Bring your code and start writing tests with the help of a mentor! </i></p>
 
+
+### Registration
 <a class="btn btn-info disabled" href="#" data-mode="1" target="_blank">Registration will open soon</a>
 
 **Soft deadline on March 3!** To make it easier for hackathon mentors
@@ -20,36 +23,27 @@ Are you doing any of these things?
 - You write code that is used in research by you or others.
 - You are not already extensively testing your code or scripts.
 
-If yes, then the CodeRefinery testing hackathon is for you!
-
-
+If yes, then the CodeRefinery testing workshop and hackathon is for you!
 
 ### Goals and format
 
-In this hackathon, you will become familiar with tools and best
-practices for testing research software and get help in adopting these in
-your own projects.
+In this event, you will become familiar with tools and best practices for testing research software and get help in adopting these in your own projects. 
 
-Day 1 will be devoted to learning - we go through the [CodeRefinery
-lesson on automated testing](https://coderefinery.github.io/testing/)
-and work on exercises in breakout rooms where you can use your
-favorite programming language. It is possible to only attend day 1 and
-not take part in the hackathon. At the end of day 1, hackathon
-participants will be paired up with a mentor and pitch their
-projects in small groups.
+#### Day 1: Workshop 
+Day 1 will be devoted to learning - we go through the [CodeRefinery lesson on automated testing](https://coderefinery.github.io/testing) and work on exercises in breakout rooms where you can use your favorite programming language. 
+**It is possible to only attend day 1 and not take part in the hackathon.** 
 
-In the days between the workshop on day 1 and the hackathon on day 2,
-you will get help from your mentor to design tests, implement them in
-your code or set up automated testing. Participants can communicate
-with mentors by email, Zoom meetings or the [CodeRefinery
-Zulipchat](https://coderefinery.github.io/manuals/chat/) and ask
-questions.  You will be expected to spend at least 5 hours on your
-project during this time.
+At the end of day 1, hackathon participants will be paired up with a mentor and pitch their projects in small groups.
 
-During the hackathon on day 2 we split into groups and participants
-work in a sprint together with their mentor.  At the end of day 2 we
-briefly summarize the progress made for each project and discuss
-lessons learned.
+#### Between Day 1 and Day 2 
+you will get help from your mentor to design tests, implement them in your code or set up automated testing. Participants can communicate with mentors by email, Zoom meetings or the [CodeRefinery Zulipchat](https://coderefinery.github.io/manuals/chat/) and ask questions. 
+**You will be expected to spend at least 5 hours on your
+project during this time.**
+
+#### Day 2: Hackathon
+During the hackathon on day 2, we split participants into groups and they work in a sprint together with their mentor.  
+At the end of day 2, we briefly summarize the progress made for each project and discuss lessons learned.
+**Participants in a same team will be located to one breakout room together**
 
 ### How to join
 
@@ -82,6 +76,7 @@ lessons learned.
 
 ### Prerequisites
 
+- By participating in this event, you agree to abide by the Code of Conduct.
 - You are expected to bring a code project to the event in which you
   want to implement testing functionality. It does not need to be a
   large complicated codebase, just something you use or intend to use
@@ -138,13 +133,18 @@ The hackathon will be held online, a Zoom link will be sent to
 accepted participants.
 
 
-### Price
+### Price and priority policy
 
 Free of charge, funded by the [Nordic e-Infrastructure
 Collaboration](https://neic.no/) and the [EuroCC National Competence Center Sweden](https://enccs.se/).
 
+When we have more sign-ups than our capacity allows, the following priority criteria apply.
 
-    
+1. Affiliated by or student of a national research or higher-education institute in a Nordic country or Estonia
+2. Affiliated by or student of a national research or higher-education institute other than any Nordic country or Estonia
+3. Others
+
+Therefore it is very important that you use email address of your affiliation.    
 
 ### Instructors and mentors
 
@@ -190,4 +190,3 @@ Collaboration](https://neic.no/) and the [EuroCC National Competence Center Swed
 ### Contact
 
 support@coderefinery.org
-
