@@ -38,9 +38,10 @@ Hackathon roles and self-assignment:
 | 5 min | Conclusions and recommendations | TBD |
 
 
-- NameN+1
+   - NameN+1
    - NameN+2
    - NameN+3
+   - Johan is interested in teaching one or two episode(s)
 
 
 ### Changing the status of the registration button
