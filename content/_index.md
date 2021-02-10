@@ -45,7 +45,7 @@ mentor and pitch their projects in small groups.
 
 #### *Between Day 1 and Day 2*
 
-In betweenm the workshop and hackathon days you will get help from
+In between the workshop and hackathon days you will get help from
 your mentor to design tests, implement them in your code or set up
 automated testing. Participants can communicate with mentors by email,
 Zoom meetings or the [CodeRefinery
@@ -57,7 +57,7 @@ your project during this time.**
 #### *Day 2: Hackathon*
 
 During the hackathon on day 2, we split participants into groups and
-they work in a sprint together with their mentor.  At the end of day
+they work in a sprint together with their mentor. At the end of day
 2, we briefly summarize the progress made for each project and discuss
 lessons learned.<br>
 
@@ -211,10 +211,10 @@ corresponding to your affiliation.
 
 ### FAQ
 
-- **Why should I join with a team?**  If you will work together later,
+- **Why should I join with a team?** If you will work together later,
   learning the tools at the same time is a great way to do it.
 
-- **How does the waitlist work?**  Anyone can register, but everyone goes to the waitlist. After the 3rd March, We'll continually approve people as we get space.
+- **How does the waitlist work?** Anyone can register, but everyone goes to the waitlist. After the 3rd March, We'll continually approve people as we get space.
 
 - **Does it matter where I work or study?** Because of the Nordic funding of
   CodeRefinery by [NeIC](https://neic.no/) and Swedish funding of
