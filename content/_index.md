@@ -9,7 +9,7 @@ title = "Online CodeRefinery Workshop and Hackathon on Software Testing"
 
 
 ### Registration
-<a class="btn btn-info disabled" href="#" data-mode="1" target="_blank">Registration will open soon</a>
+<a class="btn btn-success" href="https://indico.neic.no/event/179/" data-mode="1" target="_blank">Sign up here!</a>
 
 <b>Soft deadline on March 3!</b> To make it easier for hackathon mentors
 to prepare we prioritize early registration. If there are still free seats
