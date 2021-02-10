@@ -28,8 +28,8 @@ Hackathon roles and self-assignment:
 
 | Duration | Episode | Instructor |
 | --- | --- | --- |
-| 10 min | Motivation | TBD |
-| 10 min | Concepts | TBD |
+| 10 min | Motivation | Naoe & Thor |
+| 10 min | Concepts | Naoe & Thor |
 | 25 min | Testing locally | TBD |
 | 10 min | Tools | TBD |
 | 40 min | Automatic testing with GitHub Actions | TBD |
