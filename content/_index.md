@@ -11,7 +11,7 @@ title = "Online CodeRefinery Workshop and Hackathon on Software Testing"
 ### Registration
 <a class="btn btn-info disabled" href="#" data-mode="1" target="_blank">Registration will open soon</a>
 
-**Soft deadline on March 3!** To make it easier for hackathon mentors
+<b>Soft deadline on March 3!</b> To make it easier for hackathon mentors
 to prepare we prioritize early registration. If there are still free seats
 after March 3 we will keep accepting participants.
 
@@ -37,8 +37,8 @@ Day 1 will be devoted to learning - we go through the [CodeRefinery
 lesson on automated testing](https://coderefinery.github.io/testing)
 and work on exercises in breakout rooms where you can use your
 favorite programming language. <br>
-**It is possible to only attend day 1 and not take part in the
-hackathon.**
+<b>It is possible to only attend day 1 and not take part in the
+hackathon.</b>
 
 At the end of day 1, hackathon participants will be paired up with a
 mentor and pitch their projects in small groups.
@@ -51,8 +51,8 @@ automated testing. Participants can communicate with mentors by email,
 Zoom meetings or the [CodeRefinery
 Zulipchat](https://coderefinery.github.io/manuals/chat/) and ask
 questions. <br>
-**You will be expected to spend at least 5 hours on
-your project during this time.**
+<b>You will be expected to spend at least 5 hours on
+your project during this time.</b>
 
 #### *Day 2: Hackathon*
 
@@ -178,13 +178,9 @@ priority criteria apply.
 1. National universities or research institutes in Nordic countries
 and Estonia
 2. Private companies and government agencies in Nordic countries or
-Estonia participating in research projects funded by
-EU/Nordic/National research councils (in this case, please specify
-which project you are working for in the registration form)
-3. Other Nordic or Estonian private companies or government agencies
-4. European national universities or research institutes from outside
-the Nordics.
-5. Others
+Estonia  
+3. European national universities or research institutes from outside the Nordics.
+4. Others
 
 Therefore it is very important that you use an email address
 corresponding to your affiliation.
@@ -211,12 +207,12 @@ corresponding to your affiliation.
 
 ### FAQ
 
-- **Why should I join with a team?** If you will work together later,
+- <b>Why should I join with a team?</b> If you will work together later,
   learning the tools at the same time is a great way to do it.
 
-- **How does the waitlist work?** Anyone can register, but everyone goes to the waitlist. After the 3rd March, We'll continually approve people as we get space.
+- <b>How does the waitlist work?</b> Anyone can register, but everyone goes to the waitlist. After the 3rd March, We'll continually approve people as we get space.
 
-- **Does it matter where I work or study?** Because of the Nordic funding of
+- <b>Does it matter where I work or study?</b> Because of the Nordic funding of
   CodeRefinery by [NeIC](https://neic.no/) and Swedish funding of
   [ENCCS](https://enccs.se/) we need to have a priority list described above. 
 
