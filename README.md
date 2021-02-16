@@ -17,7 +17,6 @@ Hackathon roles and self-assignment:
    - Emilia Lipponen
    - Johan Hellsvik
    - Mark Abraham
-   - Patric Holmvall
    - Qiang Li
    - Radovan Bast
    - Roberto Di Remigio
