@@ -32,7 +32,7 @@ Hackathon roles and self-assignment:
 | 25 min | Testing locally | TBD |
 | 10 min | Tools | TBD |
 | 40 min | Automatic testing with GitHub Actions | TBD |
-| 40 min | Automatic testing with GitLab CI | TBD |
+| 40 min | Automatic testing with GitLab CI | Mark |
 | 25 min | Test design | TBD |
 | 5 min | Conclusions and recommendations | TBD |
 
