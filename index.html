@@ -1,0 +1,376 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="shortcut icon" href="/img/favicon.ico">
+
+    <!-- bootstrap -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+
+    <!-- font -->
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+
+    <!-- leaflet -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.css" integrity="sha256-BPfK9M5v34c2XP6p0cxVz1mUQLst0gTLk0mlc7kuodA=" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.js" integrity="sha256-yDc0eil8GjWFKqN1OSzHSVCiuGghTosZCcRje4tj7iQ=" crossorigin="anonymous"></script>
+
+    <!-- https://github.com/Leaflet/Leaflet.markercluster -->
+    <script src="https://cdn.jsdelivr.net/npm/leaflet.markercluster@1.4.1/dist/leaflet.markercluster-src.min.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet.markercluster@1.4.1/dist/MarkerCluster.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet.markercluster@1.4.1/dist/MarkerCluster.Default.css">
+
+    <link href="https://coderefinery.github.io/2021-03-17-testing-hackathon/css/style.css" rel="stylesheet">
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <!-- navigation -->
+      <nav class="navbar navbar-expand-lg navbar-dark fixed-top bg-dark">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNavDropdown">
+          <ul class="navbar-nav">
+
+            <li class="nav-item">
+              <a class="nav-link" href="https://neic.no" target="_blank">NeIC</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="https://coderefinery.org" target="_blank">CodeRefinery</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html" ta\
+rget="_blank">Code of Conduct</a>
+            </li>
+            <li class="nav-item">
+	      <a class="nav-link" href="https://github.com/coderefinery/2021-03-17-testing-hackathon">Improve this page</a>
+            </li>	    
+
+
+          </ul>
+        </div>
+      </nav>
+      <!-- end navigation -->
+           
+      
+      <div class="row top-buffer">
+        <div class="col">
+          
+          
+            <h1>Online CodeRefinery Workshop and Hackathon on Software Testing</h1>
+          
+        </div>
+      </div>
+
+
+      
+      
+      
+      
+<div class="row top-buffer-more">
+
+  <div class="col-sm-12">
+
+    
+      <title>CodeRefinery - Online CodeRefinery Workshop and Hackathon on Software Testing</title>
+    
+
+  </div>
+
+
+  <div class="row">
+    <div class="col-md-10">
+
+      
+        <h3 id="march-17-and-24-2021-9-00-12-30-cet">March 17 and 24, 2021, 9:00-12:30 CET</h3>
+<hr>
+<p style="font-size:120%;"><i> Bring your code and start writing tests with the help of a mentor! </i></p>
+<h3 id="registration">Registration</h3>
+<p><a class="btn btn-success" href="https://indico.neic.no/event/179/" data-mode="1" target="_blank">Sign up here!</a></p>
+<p><b>Soft deadline on March 3!</b> To make it easier for hackathon mentors
+to prepare we prioritize early registration. If there are still free seats
+after March 3 we will keep accepting participants.</p>
+<h3 id="who-the-event-is-for">Who the event is for</h3>
+<p>Are you doing any of these things?</p>
+<ul>
+<li>You write scripts to process data.</li>
+<li>You change scripts written by your colleagues.</li>
+<li>You write code that is used in research by you or others.</li>
+<li>You are not already extensively testing your code or scripts.</li>
+</ul>
+<p>If yes, then the CodeRefinery testing workshop and hackathon is for you!</p>
+<h3 id="goals-and-format">Goals and format</h3>
+<p>In this event, you will become familiar with tools and best practices
+for testing research software and get help in adopting these in your
+own projects.</p>
+<h4 id="day-1-workshop"><em>Day 1: Workshop</em></h4>
+<p>Day 1 will be devoted to learning - we go through the <a href="https://coderefinery.github.io/testing">CodeRefinery
+lesson on automated testing</a>
+and work on exercises in breakout rooms where you can use your
+favorite programming language. <br>
+<b>It is possible to only attend day 1 and not take part in the
+hackathon.</b></p>
+<p>At the end of day 1, hackathon participants will be paired up with a
+mentor and pitch their projects in small groups.</p>
+<h4 id="between-day-1-and-day-2"><em>Between Day 1 and Day 2</em></h4>
+<p>In between the workshop and hackathon days you will get help from
+your mentor to design tests, implement them in your code or set up
+automated testing. Participants can communicate with mentors by email,
+Zoom meetings or the <a href="https://coderefinery.github.io/manuals/chat/">CodeRefinery
+Zulipchat</a> and ask
+questions. <br>
+<b>You will be expected to spend at least 5 hours on
+your project during this time.</b></p>
+<h4 id="day-2-hackathon"><em>Day 2: Hackathon</em></h4>
+<p>During the hackathon on day 2, we split participants into groups and
+they work in a sprint together with their mentor. At the end of day
+2, we briefly summarize the progress made for each project and discuss
+lessons learned.<br></p>
+<p><strong>Participants in teams will be together in a breakout room.</strong></p>
+<h3 id="how-to-join">How to join</h3>
+<h4 id="either-a-both-workshop-and-hackathon-or-b-only-workshop"><em>Either A. Both workshop and hackathon, or B. Only workshop</em></h4>
+<ul>
+<li>
+<p>There are two ways to attend: only workshop on day 1 or both
+workshop and hackathon on days 1 and 2.</p>
+</li>
+<li>
+<p>It is not necessary that all team participants choose the same
+option.</p>
+</li>
+</ul>
+<h4 id="participation-as-a-team"><em>Participation as a team</em></h4>
+<ul>
+<li>If you collaborate with other people on writing code, we recommend
+that you all register to the event as a team. You can also sign up
+as a team even if you don't directly collaborate on coding.</li>
+<li>Teams will be working together in breakout rooms during the event
+and get paired with the same mentor. Team members should preferably
+use the same programming language.</li>
+<li>Decide a team name, and when registering, everyone enters this team
+name so that we can link you together. Note that everyone on the
+team must register separately.</li>
+</ul>
+<h4 id="participation-as-a-single-learner"><em>Participation as a single learner</em></h4>
+<ul>
+<li>Single learners are welcome! You don't have to write anything to the
+&quot;team name&quot; question in the registration form.</li>
+<li>During the exercise sessions in the workshop, 5-6 single learners
+are grouped into a breakout room to work together. Our instructors
+and mentors will be jumping around breakout rooms and answer any
+questions.</li>
+<li>However, please note that <strong>hackathon participants in teams will get
+more mentor time than single participants.</strong></li>
+</ul>
+<h4 id="to-maximize-benefit-of-the-hackathon"><em>To maximize benefit of the Hackathon</em></h4>
+<ul>
+<li>When registering, please write a description of the project you want
+to work on together with a mentor. Write what your code does, what
+language it's expressed in, whether it already has some tests, and
+what you would like to accomplish in the hackathon.</li>
+<li>To derive maximum benefit from the hackathon, we recommend that you
+make your code available in some form so that mentors can prepare.</li>
+<li>In the registration form you can provide a web address to your code
+repository if it's publicly available. If your code is not public,
+we will ask you to share it with a mentor before the hackathon.</li>
+</ul>
+<h3 id="prerequisites">Prerequisites</h3>
+<ul>
+<li>If you will attend the Hackathon, you are expected to bring a code
+project to the event in which you want to implement testing
+functionality. It does not need to be a large complicated codebase,
+just something you use or intend to use in your research. If it's
+not your own code, make sure that it has a license which allows you
+to modify it.</li>
+<li>You may need to install some software - see the Software
+Requirements section on below.</li>
+<li>It is somewhat important that you have a basic idea of how Git
+works. Please go through <a href="https://coderefinery.github.io/git-refresher/">this Git-refresher
+material</a> for a basic
+overview and important configuration steps.</li>
+</ul>
+<h3 id="software-requirements">Software requirements</h3>
+<p>You are assumed to have everything installed that you need for running
+code in your preferred programming language, e.g. Python, Matlab or R
+interpreters, or compilers for C/C++, Fortran, Julia, Rust, Go etc.</p>
+<p>You also need to have a testing framework available for your preferred
+language. Some languages need a package installation while others have
+a framework built into their standard libraries. A list of recommended
+tools and frameworks will be published here soon.</p>
+<p>Other requirements:</p>
+<ul>
+<li><a href="https://coderefinery.github.io/installation/bash/">Bash</a></li>
+<li><a href="https://coderefinery.github.io/installation/editors/">Editor</a></li>
+<li><a href="https://coderefinery.github.io/installation/git/">Git</a></li>
+<li><a href="https://coderefinery.github.io/installation/zoom/">Zoom</a></li>
+</ul>
+<h3 id="schedule">Schedule</h3>
+<h4 id="day-1-march-17"><em>Day 1, March 17</em></h4>
+<ul>
+<li>9:00 - 9:15
+Welcome and practical information</li>
+<li>9:30 - 12:00
+<a href="https://coderefinery.github.io/testing/">Software testing workshop</a></li>
+<li>12:00-12:30
+Project pitching and introductory meeting with mentors</li>
+</ul>
+<h4 id="day-2-march-24"><em>Day 2, March 24</em></h4>
+<ul>
+<li>9:00 - 09:20
+Introduction</li>
+<li>9:20 - 12:00
+Project work with mentors</li>
+<li>12:00 - 12:30
+Presentations of progress made and lessons learned</li>
+</ul>
+<h3 id="location">Location</h3>
+<p>The hackathon will be held online, a Zoom link will be sent to accepted participants.</p>
+<h3 id="price-and-priority-policy">Price and priority policy</h3>
+<p>Free of charge, funded by the <a href="https://neic.no/">Nordic e-Infrastructure
+Collaboration</a> and the <a href="https://enccs.se/">EuroCC National Competence
+Center Sweden</a>.</p>
+<p>When we have more sign-ups than our capacity allows, the following
+priority criteria apply.</p>
+<ol>
+<li>National universities or research institutes in Nordic countries
+and Estonia</li>
+<li>Private companies and government agencies in Nordic countries or
+Estonia</li>
+<li>European national universities or research institutes from outside the Nordics.</li>
+<li>Others</li>
+</ol>
+<p>Therefore it is very important that you use an email address
+corresponding to your affiliation.</p>
+<h3 id="instructors-and-mentors">Instructors and mentors</h3>
+<ul>
+<li>Anne Fouilloux</li>
+<li>Diana Iusan</li>
+<li>Emilia Lipponen</li>
+<li>Johan Hellsvik</li>
+<li>Mark Abraham</li>
+<li>Qiang Li</li>
+<li>Radovan Bast</li>
+<li>Roberto Di Remigio</li>
+<li>Samantha Wittke</li>
+<li>Thor Wikfeldt</li>
+</ul>
+<h3 id="coordinator-and-host">Coordinator and host</h3>
+<ul>
+<li>Naoe Tatara</li>
+</ul>
+<h3 id="faq">FAQ</h3>
+<ul>
+<li>
+<p><b>Why should I join with a team?</b> If you will work together later,
+learning the tools at the same time is a great way to do it.</p>
+</li>
+<li>
+<p><b>How does the waitlist work?</b> Anyone can register, but everyone goes to the waitlist. After the 3rd March, We'll continually approve people as we get space.</p>
+</li>
+<li>
+<p><b>Does it matter where I work or study?</b> Because of the Nordic funding of
+CodeRefinery by <a href="https://neic.no/">NeIC</a> and Swedish funding of
+<a href="https://enccs.se/">ENCCS</a> we need to have a priority list described above. </p>
+</li>
+</ul>
+<h3 id="contact">Contact</h3>
+<p>support@coderefinery.org</p>
+
+      
+
+    </div>
+    <div class="col-md-2">
+      
+        <a href="https:&#x2F;&#x2F;coderefinery.org&#x2F;">
+          <img src="https://coderefinery.github.io/2021-03-17-testing-hackathon/processed_images/56e78a6e64b1a71600.png"
+               alt="logo"
+               style="margin-top: 25px;">
+        </a>
+      
+        <a href="https:&#x2F;&#x2F;enccs.se&#x2F;">
+          <img src="https://coderefinery.github.io/2021-03-17-testing-hackathon/processed_images/5620b3e2ba20129c00.png"
+               alt="logo"
+               style="margin-top: 25px;">
+        </a>
+      
+    </div>
+  </div><!-- row -->
+
+
+      <!-- footer -->
+      <div class="row">
+        <div class="col">
+          <hr>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-lg">
+          <p>
+            <strong>Funding</strong>
+          </p>
+          <p>
+            CodeRefinery is a project within the
+            <a href="https://neic.no" target="_blank">Nordic e-Infrastructure Collaboration</a> (NeIC).
+            NeIC is an organisational unit under <a href="http://www.nordforsk.org/en" target="_blank">NordForsk</a>.
+          </p>
+        </div>
+        <div class="col-lg">
+          <p>
+            <strong>Privacy</strong>
+          </p>
+          <p>
+            <a href="/privacy-policy/" target="_blank">Privacy policy</a>
+          </p>
+        </div>
+        <div class="col-lg">
+          <p>
+            <strong>Follow us</strong>
+          </p>
+          <p>
+            <a href="https://github.com/coderefinery" target="_blank">
+              <img src="https://coderefinery.github.io/2021-03-17-testing-hackathon/processed_images/b4cc1d3c13d7ddeb00.png"
+                   alt="CodeRefinery GitHub account">
+            </a>
+            <a href="https://twitter.com/coderefine" target="_blank">
+              <img src="https://coderefinery.github.io/2021-03-17-testing-hackathon/processed_images/4103ca55758969cd00.png"
+                   alt="CodeRefinery Twitter account">
+            </a>
+          </p>
+        </div>
+        <div class="col-lg">
+          <p>
+            <strong>Contact</strong>
+          </p>
+          <p>
+            <a href="mailto:support@coderefinery.org">support@coderefinery.org</a>
+          </p>
+        </div>
+      </div>
+      <!-- end footer -->
+
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/anchor-js@4.2.2/anchor.min.js"
+            integrity="sha256-E4RlfxwyJVmkkk0szw7LYJxuPlp6evtPSBDlWHsYYL8="
+            crossorigin="anonymous"></script>
+    <script>
+      anchors.add();
+
+      // https://github.com/twbs/bootstrap/issues/1768#issuecomment-6531466
+      var shiftWindow = function() { scrollBy(0, -100) };
+      if (location.hash) shiftWindow();
+      window.addEventListener("hashchange", shiftWindow);
+    </script>
+
+  </body>
+</html>
